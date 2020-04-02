@@ -12,4 +12,4 @@ Placenta tissue, usually discarded at birth, is a potentially rich source for st
 
 Currently, folic acid measurements are complex and expensive by metabolic measurement. Those measurements also variable by batches and instruments. This project investigated on multiple machine learning prediction models on folic acid levels with direct measurement in placenta by using placental DNA methylation on matched samples. Nearest neighbor model generated the best prediction rate, followed by random forest, decision tree and neural networks. All four models had high prediction accuracy on folate levels. 
 
-#### This project is from this author's BST 227 (Machine Learning in Genomics) course project
+#### This project is from the author (Yihui Zhu) UC Davis BST 227 (Machine Learning in Genomics) course project
