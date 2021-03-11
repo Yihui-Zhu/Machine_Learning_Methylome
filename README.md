@@ -1,4 +1,4 @@
-# Machine_Learning_Methylome
+# Machine Learning Methylome
 Machine learning analysis of whole-genome methylation data reveals novel prediction on tetrahydrofolate level in placenta tissue
 
 ## Title: Machine learning analysis of whole-genome methylation data reveals novel prediction on tetrahydrofolate level in placenta tissue
